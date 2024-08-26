@@ -5,7 +5,7 @@ export const fetchData = async () =>{
         method :'GET',
         url:"https://imdb188.p.rapidapi.com/api/v1/getWeekTop10",
         headers: {
-            'x-rapidapi-key': '0246898df3msha5b48705bc12247p175157jsn23627d0ee156',
+            'x-rapidapi-key': 'cc13e8b8c5msh868dc27d749fff1p149794jsnb75076f238a',
             'x-rapidapi-host': 'imdb188.p.rapidapi.com'
           }
     }
